@@ -2,9 +2,7 @@
 pub use pallet::*;
 //
 // #################################
-//Signature: /B8IGwJQDFxSm45EK9UnHv2OyiyffxTlLkEqrhSG8DMBpS3uq9Z1wrCYS9Gv4vmlvPrKObCgcica08YVmqgRqAA=
-//Raw message (Payload): 0x0398bc82113ca0b1dc2953d14297d962d245dc8223716985e985855f971d04b8
-//Signing wallet Address: hxb48f3bd3862d4a489fb3c9b761c4cfb20b34a645
+
 #[frame_support::pallet] // frame_support will allow the pallet to be used in construct_runtime
 pub mod pallet {
 	use super::*;
